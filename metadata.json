@@ -1,0 +1,5 @@
+{
+  "name": "VHU Portal Future",
+  "description": "A modern, futuristic student portal for Van Hien University (VHU), featuring AI-powered assistance, personalized dashboards, and a seamless, responsive user experience. Built with React, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": []
+}
