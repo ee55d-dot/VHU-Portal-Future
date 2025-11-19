@@ -9,7 +9,7 @@ const studentInfo = {
     class: '23TMDT01',
     faculty: 'Kinh tế - Quản trị',
     gender: 'Nam',
-    email: 'bao.vg231a290036@vhu.edu.vn',
+    email: 'bao231a@vhu.edu.vn',
     major: 'Thương mại điện tử',
     avatarUrl: 'https://picsum.photos/seed/flower-avatar/200',
     studyProgress: 25,
